@@ -1,0 +1,25 @@
+
+{
+
+    "id":"111",
+
+    "name":"Microsoft",
+
+    "website":[
+
+    "http://microsoft.com",
+
+    "http://msn.com",
+
+    "http://hotmail.com"
+
+    ],
+
+    "address": {
+
+      "street": "1 Microsoft way",
+
+      "city": "Redmond"}
+
+  }
+
